@@ -1,0 +1,22 @@
+h1{
+    font-size: 40px !important;
+}
+span{
+    font-size: 40px;
+}
+body{
+    /* background: lightgreen !important; */
+    background-image: linear-gradient(to right,red, yellow, blue) !important;
+}
+label{
+    color: white;
+}
+.emoji{
+    font-size: 30px;
+}
+.emotion_name{
+    font-size: 20px;
+}
+.pre{
+    color: #000;
+}
